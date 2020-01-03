@@ -27,8 +27,8 @@
         <li class="nav-item active">
           <router-link tag="a" class="nav-link" to="/user">User</router-link>
         </li>
-         <li class="nav-item active">
-          <router-link tag="a" class="nav-link" to="/result" >Result</router-link>
+        <li class="nav-item active">
+          <router-link tag="a" class="nav-link" to="/user/Result" >Result</router-link>
         </li>
       </ul>
       <form class="form-inline my-2 my-lg-0">
@@ -45,5 +45,4 @@ export default {};
 </script>
 
 <style >
-  
 </style> >
